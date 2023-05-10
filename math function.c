@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<math.h>
+main()
+{
+	printf("\n%f",sqrt(20));
+	printf("\n%f",pow(4,3));
+	printf("\n%f",sin(70));
+	printf("\n%f",cos(70));
+	printf("\n%f",ceil(1.4));
+	printf("\n%f",floor(1.4));
+}
